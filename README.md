@@ -42,8 +42,6 @@ customer-management-system/
 │
 ├── backend/
 │   ├── config/
-│   ├── controllers/
-│   ├── routes/
 │   ├── database.sql
 │   ├── server.js
 │   └── package.json
